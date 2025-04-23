@@ -5,8 +5,6 @@
 Thumbs.db
 
 # Исключаем изображения, если они не нужны в репозитории
-*.jpg
-*.jpeg
 avtor.png
 foto_main.webp
 
